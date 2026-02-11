@@ -1,7 +1,9 @@
 # xlogging
 
+[![CI](https://github.com/iota101/xlogging/actions/workflows/ci.yml/badge.svg)](https://github.com/iota101/xlogging/actions/workflows/ci.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/iota101/xlogging.svg)](https://pkg.go.dev/github.com/iota101/xlogging)
 [![Go Report Card](https://goreportcard.com/badge/github.com/iota101/xlogging)](https://goreportcard.com/report/github.com/iota101/xlogging)
+[![Latest Tag](https://img.shields.io/github/v/tag/iota101/xlogging?label=latest&sort=semver)](https://github.com/iota101/xlogging/tags)
 
 Structured logging library for Go wrapping `log/slog` with environment-aware output formatting and context propagation.
 
